@@ -1,4 +1,1 @@
-select @@SERVERNAME
-select @@servicename
-
---testando git
+sp_who
