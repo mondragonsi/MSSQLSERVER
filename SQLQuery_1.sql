@@ -1,2 +1,4 @@
 select @@SERVERNAME
 select @@servicename
+
+--
