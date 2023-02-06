@@ -1,1 +1,1 @@
- sp_who
+ sp_who2
