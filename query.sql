@@ -1,3 +1,5 @@
+use AdventureWorks2019
+
 SELECT
     objects.name AS Table_name,
     indexes.name AS Index_name,
