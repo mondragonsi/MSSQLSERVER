@@ -1,5 +1,4 @@
 use AdventureWorks2019
-go
 
 SELECT
     objects.name AS Table_name,
