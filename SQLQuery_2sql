@@ -1,2 +1,0 @@
-select @@SERVERNAME as server_name
-select @@SERVICENAME as service_name
